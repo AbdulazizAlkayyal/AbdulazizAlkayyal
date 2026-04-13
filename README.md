@@ -38,14 +38,13 @@
 <a href="https://code.visualstudio.com/">
   <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
 </a>
+&nbsp;
 <a href="https://www.linux.org/">
   <img src="https://skillicons.dev/icons?i=linux" width="48"/>
 </a>
+&nbsp;
 <a href="https://www.oracle.com/">
-  <img src="https://skillicons.dev/icons?i=oracle" width="48"/>
-</a>
-<a href="https://nodered.org/">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/>
 </a>
 
 ---
