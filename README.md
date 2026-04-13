@@ -46,6 +46,9 @@
 <a href="https://www.oracle.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/>
 </a>
+<a href="https://www.jetbrains.com/idea/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48"/>
+</a>
 
 ---
 
