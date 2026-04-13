@@ -13,6 +13,9 @@
 <a href="https://github.com/AbdulazizAlkayyal">
   <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
+<a href="mailto:alkayyal8780@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
 
 ---
 
