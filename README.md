@@ -64,8 +64,9 @@
 - **BSc Computer Science (Year 1)**  
   Leeds Beckett University  
 
-- **Foundation Degree in Engineering and Computing (2024–2025)**  
-  Classification: **First Class Honours**
+- - **Foundation Degree in Engineering and Computing (2024–2025)**  
+  IFY Pathway: Science, Engineering & Computing (Physics)  
+  First Class Honours (79%)
 
 - Currently Studying:
   - Object-Oriented Programming (OOP)  
