@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Abdulaziz Alkayyal
+#  Hi, I'm Abdulaziz Alkayyal
 
-🎓 **BSc Computer Science – Year 1 Student**  
-💻 Learning software development and core computer science concepts  
+ **BSc Computer Science – Year 1 Student**  
+ Learning software development and core computer science concepts  
 
 ---
 
-## 🔗 Connect with me
+##  Connect with me
 
 <a href="https://www.linkedin.com/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 Languages
+##  Languages
 
 <a href="https://www.oracle.com/java/">
   <img src="https://skillicons.dev/icons?i=java" width="48"/>
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 <a href="https://code.visualstudio.com/">
   <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
@@ -52,14 +52,14 @@
 
 ---
 
-## 🧩 Platforms & Frameworks
+##  Platforms & Frameworks
 
 - Oracle APEX (used for database learning)  
 - Node-RED (flow-based development)  
 
 ---
 
-## 🎓 Education & Learning
+##  Education & Learning
 
 - BSc Computer Science (Year 1)  
 - Currently Studying:
@@ -69,17 +69,13 @@
 
 ---
 
-## 🏢 Training
+##  Training
 
 - Trained with **IBM**  
 - Used **Node-RED** during training with IBM  
 - Used **Oracle APEX** as part of database coursework  
 
 ---
-
-## 📊 GitHub Stats
-
-![Abdulaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulazizAlkayyal&show_icons=true&theme=default)
 
 
 ---
