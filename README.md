@@ -61,11 +61,16 @@
 
 ##  Education & Learning
 
-- BSc Computer Science (Year 1)  
+- **BSc Computer Science (Year 1)**  
+  Leeds Beckett University  
+
+- **Foundation Degree in Engineering and Computing (2024–2025)**  
+  Classification: **First Class Honours**
+
 - Currently Studying:
   - Object-Oriented Programming (OOP)  
   - Databases  
-  - Computer Communication  
+  - Computer Communication   
 
 ---
 
