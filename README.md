@@ -66,7 +66,7 @@
 
 - - **Foundation Degree in Engineering and Computing (2024–2025)**  
   IFY Pathway: Science, Engineering & Computing (Physics)  
-  First Class Honours (79%)
+  First Class Honours
 
 - Currently Studying:
   - Object-Oriented Programming (OOP)  
