@@ -75,11 +75,12 @@
 
 ---
 
-##  Training
+## 🏢 Training & Certifications
 
-- Trained with **IBM**  
-- Used **Node-RED** during training with IBM  
-- Used **Oracle APEX** as part of database coursework  
+- Completed the i-UG Node-RED education course  
+- Successfully completed the Brewery Challenge using Node-RED  
+- Participated in technical training with IBM  
+- Used Oracle APEX as part of database coursework  
 
 ---
 
