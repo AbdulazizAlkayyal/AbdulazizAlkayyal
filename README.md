@@ -1,6 +1,6 @@
 #  Hi, I'm Abdulaziz Alkayyal
 
- **BSc Computer Science – Year 1 Student**  
+ **BSc Computer Science – Year 2 Student**  
  Learning software development and core computer science concepts  
 
 ---
