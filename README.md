@@ -61,14 +61,14 @@
 
 ##  Education & Learning
 
-- ** BSc Computer Science (Year 2)
+-  BSc Computer Science (Year 2)
     Leeds Beckett University  
 
-- - **Foundation Degree in Engineering and Computing (2024–2025)**  
+ - Foundation Degree in Engineering and Computing (2024–2025)**  
   IFY Pathway: Science, Engineering & Computing (Physics)  
   First Class Honours
 
-- Currently Studying:
+  ## Currently Studying:
   - Robotics & AI 
   - Operating Systems and Practice  
   - Software Systems Development  
