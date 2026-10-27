@@ -19,7 +19,7 @@
 
 ---
 
-##  Languages
+## Languages
 
 <a href="https://www.oracle.com/java/">
   <img src="https://skillicons.dev/icons?i=java" width="48"/>
@@ -29,6 +29,9 @@
 </a>
 <a href="https://www.mysql.com/">
   <img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+</a>
+<a href="https://isocpp.org/">
+  <img src="https://skillicons.dev/icons?i=cpp" width="48"/>
 </a>
 
 ---
