@@ -7,7 +7,7 @@
 
 ##  Connect with me
 
-<a href="https://linkedin.com/in/abdulaziz-alkayyal-695130406">
+<a href="https://www.linkedin.com/in/abdulaziz-alkayyal/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 <a href="https://github.com/AbdulazizAlkayyal">
