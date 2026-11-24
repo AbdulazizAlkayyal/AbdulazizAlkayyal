@@ -86,22 +86,15 @@ Overall average: 99.2% (Excellent+).
 
 ---
 
+
 ## 🚀 Projects & Practical Experience
 
-### 🍺 Brewery Monitoring System
-**i-UG Node-RED Education Course and Brewery Challenge**
+### 🤖 AI Study Assistant – Beckett Hack AI Innovation Challenge
+**Leeds Beckett University | November 2026**
 
-- Used Node-RED and IBM Db2 for i.
-- Created dashboard elements for monitoring information.
-- Practised database queries and data handling.
-- Explored real-time monitoring and automation concepts.
-
-### 🤖 Arduino Robot Control
-**Robotics & AI Coursework**
-
-- Used C++ with Arduino to control robot movements.
-- Practised programming and hardware interaction.
-- Worked with robot movement commands and control functions.
+- Worked in a team of four to develop a demonstration website for an AI-powered study assistant concept.
+- Contributed to assignment brief analysis and marking criteria explanations.
+- Explored task breakdown, personalised study support and deadline/calendar planning.
 
 ### 🏆 Beckett Careers Micro Challenge
 **Alumni Engagement Consultancy | October 2026**
@@ -109,8 +102,35 @@ Overall average: 99.2% (Excellent+).
 - Worked in a four-person team.
 - Researched alumni engagement approaches used by UK universities.
 - Contributed to five recommendations for improving alumni engagement.
-- Presented ideas to university representatives.
+- Helped present ideas to university representatives.
 - **Achievement: Member of the winning team.**
+
+### 🍺 Brewery Monitoring System
+**i-UG Node-RED Education Course and Brewery Challenge**
+
+- Built Node-RED flows and connected them to IBM Db2 for i.
+- Used SQL queries to retrieve and work with database information.
+- Developed dashboard components for monitoring and displaying information.
+- Explored real-time monitoring, automation and IoT concepts.
+- **Achievement: Successfully completed the course and Brewery Challenge, receiving a Certificate of Completion.**
+
+### 🤖 Arduino Robot Control
+**Robotics & AI Coursework**
+
+- Programmed a Fischer Technik 3D robot using Arduino Uno and C++.
+- Implemented and tested three robot scenarios involving automated movement and control.
+- Used an HC-SR04 ultrasonic sensor for distance detection and sensor-based control.
+- Worked with relay modules and limit switches to control robot movements.
+- Completed practical testing and demonstrated all three scenarios.
+
+### 🚆 Java Object-Oriented Railway Simulation System
+**February–April 2026**
+
+- Developed a command-based railway simulation system using Java.
+- Applied object-oriented programming principles, including inheritance, encapsulation and method overriding.
+- Implemented locomotive and carriage management functionality.
+- Worked with input validation, exception handling, locomotive ID tracking and capacity limits.
+- Implemented onTick monitoring functionality.
 
 ---
 
@@ -127,8 +147,9 @@ Overall average: 99.2% (Excellent+).
 - Operating Systems and Linux
 - Object-Oriented Programming with Java
 - Software Systems Development
-- Programming and problem-solving
+- Programming, algorithms and problem-solving
 
 ---
 
 Thanks for visiting my profile! 👋
+
